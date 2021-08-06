@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import Component from "./App.js";
-import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(<Component />, document.getElementById("root"));
 
